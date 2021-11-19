@@ -21,17 +21,7 @@ content = """
           <div class="row">
             <div class="col-md-12">
               <div class="copyright-text">
-                <p>
-                  © 2021
-                  <a href=""
-                    ><u>Python Web Hosting</u></a
-                  >. All rights reserved. Made With ❤ by
-                  <a href=""><u>SRIJITH</u></a> and 
-                  <a
-                    href=""
-                    ><u>JESHWANTH</u></a
-                  >
-                </p>
+               
               </div>
             </div>
           </div>

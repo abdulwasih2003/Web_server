@@ -126,7 +126,7 @@ httpd.serve_forever()
 
 ```
 ## OUTPUT:
-![GitHub Logo](img.jpg)
+![GitHub Logo](img.png)
 
 ## RESULT:
 A WebServer Has Been Created Successfully!
